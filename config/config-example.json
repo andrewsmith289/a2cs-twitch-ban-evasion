@@ -1,0 +1,5 @@
+{
+  "master_stream": "stream_name",
+  "interval": 10,
+  "api_allowed_ips": ["127.0.0.1", "::1"]
+}

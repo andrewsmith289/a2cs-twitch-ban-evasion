@@ -1,0 +1,15 @@
+{
+  "name": "checkban",
+  "version": "1.0.0",
+  "description": "Checks for twitch bans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darkwing87t@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  }
+}

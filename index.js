@@ -2,6 +2,8 @@
 
 const express = require('express');
 const fs = require('fs');
+const { exit } = require('process');
+
 const { startStream, restartStream, isRunning } = require('./src/stream');
 const { accountExists, getAccount } = require('./src/pool');
 
